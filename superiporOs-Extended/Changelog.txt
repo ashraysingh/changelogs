@@ -1,0 +1,48 @@
+Build Date - 24th August, 2023
+
+##Changelog- SuperiorOS Extended-13
+
+Device Changelogs:
+
+- Initial Release
+- Updated blobs to MIUI 14.0.6.0.TKKMIXM
+- Upstream Kernel to 5.4.242
+- Updated KernelSU to 0.6.7
+- Offload VM shell to another thread
+- Enable VoNR Calls support
+- Fix audio low mic volume on VoIP
+- RIL edits for battery life
+- Enable support for IEEE80211AX
+- Enable support for IEEE80211AC
+- Add OpenGL ES and update Vulkan dEQP feature flags 
+- Fix Google voice recorder
+- add support to awinic_haptic node
+- Optimize everything on preopt 
+- Added support for smart pixels
+- Fix display animation while AOD on/off screen
+- Enhanced system audio quality
+- wifioverlay: Allow Enterprise network configuration
+- Enable CLO's Framework Boost
+
+Source Changelogs:
+
+* Added A11 qs style
+* Added settings to change QS tile shape
+* Added custom header image option 
+* Added preview for header images and more customizations for header image
+* Fixed min value of Seekbar & ImagePicker
+* DisplaySettings: Allow incrementing font size in 5% steps from 80% to 130%
+* Toast: Perform text scrolling for long toast texts
+
+##Notes
+
+- Initial release 
+- Selinux is enforcing
+- Includes Leica cam and Miui Gallery
+- Includes Dolby sound
+- Kernel SU supported
+- Firmware Included
+
+⚠️ Google Restore doesn't work, so plan accordingly if doing clean flash ⚠️
+
+
