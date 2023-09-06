@@ -2,7 +2,6 @@ Build Date - 5th September, 2023
 
 ##Changelog- SuperiorOS-13
 
-- Initial Release
 - Updated blobs to MIUI 14.0.5.0.TKKMIXM
 - Upstream Kernel to 5.4.242
 - Updated KernelSU to 0.6.7
