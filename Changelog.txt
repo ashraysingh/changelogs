@@ -1,26 +1,22 @@
-Build Date - 19th August, 2023
+Build Date - 5th September, 2023
 
 ##Changelog- SuperiorOS-13
 
 - Initial Release
-- Updated blobs to MIUI 14.0.6.0.TKKMIXM
+- Updated blobs to MIUI 14.0.5.0.TKKMIXM
 - Upstream Kernel to 5.4.242
-- Updated KernelSU to 0.6.6
-- Offload VM shell to another thread
-- Enable VoNR Calls support
-- Fix audio low mic volume on VoIP
-- RIL edits for battery life
-- Enable support for IEEE80211AX
-- Enable support for IEEE80211AC
-- Add OpenGL ES and update Vulkan dEQP feature flags 
-- Fix Google voice recorder
-- add support to awinic_haptic node
-- Optimize everything on preopt 
-- Added support for smart pixels
+- Updated KernelSU to 0.6.7
+- Fixed Leica cam for K40pro (64 mp)
+- added Dolby Atmos
+- Update task profiles from AOSPA
 - Fix display animation while AOD on/off screen
-- Enhanced system audio quality
-- wifioverlay: Allow Enterprise network configuration
-- Enable CLO's Framework Boost
+- smoother scrolling and better responsiveness
+- fixed color balance 
+- enhance system audio quality 
+- Enable 5G SA and NSA
+- Enable VoNR Calls support
+- Move citsensorservice to background cpusets
+- Lots of other fixes and improvements 
 
 ##Notes
 
