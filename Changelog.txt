@@ -1,6 +1,6 @@
-Build Date - 5th September, 2023
+Build Date - 10th September, 2023
 
-##Changelog- SuperiorOS-13
+##Changelog- ArrowOS-13.1
 
 - Updated blobs to MIUI 14.0.5.0.TKKMIXM
 - Upstream Kernel to 5.4.242
