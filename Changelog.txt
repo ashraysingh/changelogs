@@ -1,21 +1,51 @@
-Build Date - 10th September, 2023
+Build Date - 14th September, 2023
 
-##Changelog- ArrowOS-13.1
+##Changelog- DerpfestAOSP-13.1
++ DEVICE:
 
 - Updated blobs to MIUI 14.0.5.0.TKKMIXM
 - Upstream Kernel to 5.4.242
 - Updated KernelSU to 0.6.7
 - Fixed Leica cam for K40pro (64 mp)
+- Leica updated to version 5.0 
 - added Dolby Atmos
 - Update task profiles from AOSPA
-- Fix display animation while AOD on/off screen
 - smoother scrolling and better responsiveness
-- fixed color balance 
 - enhance system audio quality 
 - Enable 5G SA and NSA
 - Enable VoNR Calls support
 - Move citsensorservice to background cpusets
+- Enable aptX(HD) offload
+- Import LDAC and LHDC prebuilts
+- Add support of MiSound and QC audio effects -libs 
+- Import OzoAudio Engine prebuilts
+- Implemented lineage charging control
 - Lots of other fixes and improvements 
+
++ROM:
+- September 2023 Security Patch
+- Include PE's Pixel framework 
+- Bring back QS Header Images
+- Add QS battery customizations
+- Enable new back gesture affordance
+- Tell user when face unlock detection is running
+- Improve switch to unlink ringtone and notifications volume
+- Improve power menu drawables and strings
+- Rebrand Aperture to Flash
+- Replace configurable fingerprint wake-and-unlock by a much simpler implementation from ArrowOS
+- AirPod support changes has been revised on top of new changes based on OpenPods source
+- Settings: Re-order SELinux status on About Phone
+- Settings: Allow toggling in-call notifications
+- Settings: Show single-touch wakeup setting on rear & front fps devices
+- DerpSpace: Use click effect toggle instead of duration for haptic feedback for QSTile
+- Various fixes for FMRadio
+- recovery: Ask to reboot before installing anything after A/B update
+- Relax few restrictions for builds with prebuilt vendor
+- Update Symphonica to 0.6.0
+- Add Hellenic translations
+- Import more Chinese (Simpified) translations
+- Update Russian translations
+- Some more things maybe I can't remember more :P
 
 ##Notes
 
